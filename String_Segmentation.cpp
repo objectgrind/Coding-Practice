@@ -77,7 +77,7 @@ int main() {
 /*
 complexity -O(n*n)
 
-Output
+Output :
 False
 False
 */
