@@ -79,7 +79,8 @@ int main() {
 
 
 /*
-output
+
+output :
 
 Merged Linked List: 2 3 4 5 6 7 
 
