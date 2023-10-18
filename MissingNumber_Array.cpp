@@ -54,7 +54,7 @@ int main() {
 
 /*
 
-output 
+output :
 The missing number is: 5
 
 Runtime Complexity: Linear O(n)
